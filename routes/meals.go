@@ -32,7 +32,7 @@ func getMeal(c *gin.Context){
 
 func createMeal(c *gin.Context){
 
-	var event models.Meal
+	var meal models.Meal
 	err := c.ShouldBindJSON(&meal)
 	if err != nil{
 		c.JSON(http.StatusBadRequest, gin.H{"message":"Could not parse request data"})

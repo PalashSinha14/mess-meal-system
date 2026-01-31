@@ -13,7 +13,6 @@ type Meal struct {
 
 var meals = []Meal{} 
 
-
 func (m *Meal) Save() error { 
 	query := `INSERT INTO meals(name, description, user_id) VALUES (?,?,?)`
 	stmt, err := db.DB.Prepare(query)
@@ -30,7 +29,7 @@ func (m *Meal) Save() error {
 	return err
 }
 
-func getAllMeals() ([]Meal, error) { 
+func GetAllMeals() ([]Meal, error) { 
 	query := "SELECT * FROM meals"
 	rows, err := db.DB.Query(query)
 	if err != nil {
@@ -49,7 +48,7 @@ func getAllMeals() ([]Meal, error) {
 	return meals, nil
 }
 
-func getMealByID(id int64) (*Meal, error) {
+func GetMealByID(id int64) (*Meal, error) {
 	query := "SELECT * FROM meals WHERE id=?"
 	row := db.DB.QueryRow(query, id)
 	var meal Meal
