@@ -2,7 +2,7 @@
 
 ## Overview
 
-A residential mess serves meals daily to a large group of residents. However, students’ plans frequently change, they may skip meals or decide to eat at the last minute while mess staff must decide food quantities in adance.
+A residential mess serves meals daily to a large group of residents. However, students’ plans frequently change, they may skip meals or decide to eat at the last minute while mess staff must decide food quantities in adace.
 
 This mismatch often leads to food waste on some days and shortages on others, as decisions are based on guesswork or late information.
 
