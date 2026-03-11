@@ -204,7 +204,7 @@ Cutoff time enforcement for confirmations
 Guest count support
 Notifications before cutoff
 Historical analytics and forecasting
-I deliberately kept the API surface minimal — just enough to support daily intent declaration and final headcount generation — because simplicity and reliability matter more than feature breadth in operational systems.
+I deliberately kept the API surface minimal, just enough to support daily intent declaration and final headcount generation — because simplicity and reliability matter more than feature breadth in operational systems.
 
 Author
 Palash Sinha
