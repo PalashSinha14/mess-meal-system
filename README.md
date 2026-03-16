@@ -59,7 +59,7 @@ To keep the system focused and realistic, the following assumptions were made:
 
 ## Tech Stack
 
-- Language: Go
+- Language: Golang
 - Framework: Gin
 - Database: SQLite (modernc.org/sqlite)
 - Authentication: JWT
