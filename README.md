@@ -61,7 +61,7 @@ To keep the system focused and realistic, the following assumptions were made:
 
 - Language: Golang
 - Framework: Gin
-- Database: SQLite DB (modernc.org/sqlite)
+- Database: SQLite (modernc.org/sqlite)
 - Authentication: JWT
 - Password hashing: bcrypt
 
