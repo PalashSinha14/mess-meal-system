@@ -39,7 +39,7 @@ Authentication is handled using JWT, and protected routes require a valid token.
 - Per-user meal confirmation
 - Idempotent meal confirmation updates
 - Staff-facing meal summary endpoint
-- SQLite backed persistence
+- SQLite DB backed persistence
 - Minimal, REST-based backend design
 
 ---
