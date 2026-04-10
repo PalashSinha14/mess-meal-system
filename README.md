@@ -8,7 +8,7 @@ This mismatch often leads to food waste on some days and shortages on other days
 
 This project implements a **Meal Intent Declaration System** that captures residents’ meal confirmations ahead of time, enabling mess staff to plan food quantities more accurately while still allowing flexibility for resident.
 
----
+---s
 
 ## Problem Chosen
 
