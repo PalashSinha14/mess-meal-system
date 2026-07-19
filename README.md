@@ -4,7 +4,7 @@
 
 A residential mess serves meals daily to a large group of residents. However, student’s plans frequently change, they may skip meals or decide to eat at the last minute while the mess staff must decide food quantity in advance.
 
-This mismatch often leads to food waste on some days and shortages on other days, as decisions are based on guesswork or late informations.
+This mismatch often leads to food waste on some days and shortages on other days, as decisions are based on guesswork or late information.
 
 This project implements a **Meal Intent Declaration System** that captures residents’ meal confirmations ahead of time, enabling mess staff to plan food quantities more accurately while still allowing flexibility for residents.
 
