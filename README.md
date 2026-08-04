@@ -194,7 +194,7 @@ Response
 Design Rationale
 
 The system focuses on explicit intent declaration rather than prediction
-API surface is intentionally minimal to reduce complexity
+API surface is intentionally minimal which reduces complexity
 Authentication exists only to associate actions with users
 The summary endpoint provides a single, reliable planning metric for staff
 The design can be extended to support cutoff times, roles, and forecasting
