@@ -14,7 +14,7 @@ This project implements a **Meal Intent Declaration System** that captures resid
 
 The core problem addressed is the lack of reliable, per-meal attendance information before food preparation begins.
 
-Instead of solving the entire mess management problem, this system focuses on a **single, high-impact slice**:
+Instead of solving the entire mess management problem, this system focus on a **single, high-impact slice**:
 - Allowing residents to explicitly confirm their meals
 - Aggregating confirmations into a clear planning signal for staff
 
